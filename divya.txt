@@ -1,0 +1,2 @@
+This is basic commands for git
+first we need to create our repository(Directory) ---> git init
